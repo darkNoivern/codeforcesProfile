@@ -1,0 +1,71 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.codeforces{
+    text-align: center;
+    margin: 3% 0% 5%;
+}
+
+.green{
+    background-color: rgba(0, 128, 0,0.6);
+    color: white;
+}
+
+.yellow{
+    background-color: rgb(255, 255, 0,0.5);
+}
+
+.red{
+    background-color: rgb(255, 0, 0,0.6);
+    color: white;
+}
+
+.profile-img{
+    text-align: center;
+}
+
+.max-rating-header,.max-rank-header{
+    background-color: blueviolet;
+}
+
+img{
+    height: 18rem;
+    width: 18rem;
+    /* text-align: center; */
+    border-radius: 9rem;
+}
+
+.head{
+    height: 3.5rem;
+}
+
+.body{
+    height: 4.5rem;
+}
+
+.universe{
+    width: 100%;
+    max-width: 80rem;
+}
+
+.flexy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.builder-box{
+    width: 100%;
+    max-width: 80rem;
+}
+
+.ac-count-header{
+    color: white;
+}
+
+.profile{
+    /* height: 20rem; */
+    width: 100%;
+    margin-bottom: 5%;
+}
